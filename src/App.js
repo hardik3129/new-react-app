@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          mdcj sdnflksdm git
+          How are you
         </a>
       </header>
     </div>
